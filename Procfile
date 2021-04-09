@@ -1,1 +1,1 @@
-web: gunicorn src.pyaadhaarAPI.wsgi
+web: gunicorn pyaadhaarAPI.wsgi
