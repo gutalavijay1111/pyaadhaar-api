@@ -1,0 +1,1 @@
+web: gunicorn src.pyaadhaar.wsgi --log-file
