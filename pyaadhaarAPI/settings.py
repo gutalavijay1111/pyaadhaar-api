@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-+at7#ms7lnrukrsw-*wf^j971o8w+ck296@*rf*-h0m+yn)vk#'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['pyaadhaar-api.herokuapp.com','127.0.0.1']
 
